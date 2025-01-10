@@ -1,1 +1,1 @@
-# saas_template
+# MERN Stack Template For Software Service Companies
